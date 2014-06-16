@@ -17,12 +17,15 @@ Evidence of user’s interest (i.e. do people use it?):
 Many people are using this tool with average 77 downloads per day and the statistics of must have score is around 14.2. There is evidence that people using this tool are highly satisfied and can be verified by visiting http://www.hanselman.com/blog/IfYoureNotUsingGlimpseWithASPNETForDebuggingAndProfilingYoureMissingOut.aspx
 
 Appropriateness of document:
+
 The documentation is well maintained with project and technical details. There are screenshots and step by step procedures of the project are explained in detail. There is an issue tracker on GitHub where the contributors can report the bugs/issues and also Wiki where one can edit/contribute to the project.
 
 Readability and maintainability of the code:
+
 The codes listed have well defined classes and very detailed comments which makes it easier to read. However, a few of the codes have no comments, and this makes it difficult to understand. It would have been useful if all the codes had comments. The codes are available on GitHub https://github.com/Glimpse/Glimpse
 
 Evidence of other appropriate software engineering practices:
+
 There is no documentation to conclude if agile methodology is being followed? The issue tracker on GitHub shows the defects /issues are constantly being addressed, and the new releases are updated regularly.
 
 Opportunities to contribute to the project (technical and/or other needs, besides financial):
