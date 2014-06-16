@@ -60,7 +60,7 @@ The issue tracker for this project on GitHub is active. Looking at the history t
 
 Opportunities to contribute to the project (technical and/or other needs, besides financial):
 
-They have mentioned that interested contributors are welcome to participate in bug fixes and feature enhancements. Personally I feel, documentation can be made more detailed and user friendly, and use of detailed comments in all code segments. Also, I am interested to learn how we can use this platform in other projects.
+They have mentioned that interested contributors are welcome to participate in bug fixes and feature enhancements. Personally I feel, documentation can be made more detailed and user friendly, and use of detailed comments in all code segments. It will be interesting to learn, how this platform can be implemented in other projects.
 
 Project 3: Swot
 
