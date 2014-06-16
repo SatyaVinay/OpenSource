@@ -29,6 +29,7 @@ Evidence of other appropriate software engineering practices:
 There is no documentation to conclude if agile methodology is being followed? The issue tracker on GitHub shows the defects /issues are constantly being addressed, and the new releases are updated regularly.
 
 Opportunities to contribute to the project (technical and/or other needs, besides financial):
+
 There are many ways one can contribute to this project. Glimpse maintains several issues that can be addressed by the beginners. The link to the jump in on GitHub is https://github.com/Glimpse/Glimpse/issues?labels=Jump+In&milestone=&page=1&sort=updated&state=open
 
 They are looking for people who are interested to help improve their documentation by editing, introducing various tutorials and concepts of API. All of these can be done on GitHub Wiki. People can report issues, fix the bugs, join their developer’s team and contribute their ideas through GitHub issue tracker.
