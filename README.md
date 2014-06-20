@@ -56,7 +56,7 @@ The documentation is very limited. Although, they have enclosed a lot of useful 
 
 The code is well commented at some segments but lacks explanation at other sections. The code can be found on GitHub at https://github.com/nasa/mct
 
-######vidence of other appropriate software engineering practices:
+#####Evidence of other appropriate software engineering practices:
 
 The issue tracker for this project on GitHub is active. Looking at the history they had a couple releases in which they fixed and closed the defects. Looking at the current discussion board, the new opened bugs could be fixed in upcoming releases, which has no due date. The issue tracker and project’s milestone can be found at https://github.com/nasa/mct/issues?milestone=6&state=open
 
