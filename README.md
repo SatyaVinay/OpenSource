@@ -1,4 +1,4 @@
-This repository is for Comp 312 - Open Source Computing Course
+###This repository is for Comp 312 - Open Source Computing Course
 
 
 Assignment 2
