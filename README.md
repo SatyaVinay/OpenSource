@@ -1,9 +1,9 @@
-###This repository is for Comp 312 - Open Source Computing Course
+####This repository is for Comp 312 - Open Source Computing Course
 
 
-###Assignment 2
+####Assignment 2
 
-###Project Proposals
+####Project Proposals
 
 #####Project 1: Glimpse
 
