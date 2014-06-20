@@ -1,11 +1,11 @@
 ###This repository is for Comp 312 - Open Source Computing Course
 
 
-Assignment 2
+###Assignment 2
 
-Project Proposals
+###Project Proposals
 
-Project 1: Glimpse
+###Project 1: Glimpse
 
 As a beginner, new to the open source project, I have chosen “Project Glimpse”, which gives me an opportunity to work on both ‘Coding’ and also the ‘Documentation’. Glimpse is a web debugger and diagnostic tool for ASP.Net under the Apache 2.0 license. It is a very popular and successful open source project, however not very well known to many people. It helps to improve web applications by inspecting web requests as they happen, providing insights and tooling that reduce debugging time. Link to detailed information on this project can be obtained at http://getglimpse.com/
 
