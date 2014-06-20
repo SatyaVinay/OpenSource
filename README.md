@@ -1,7 +1,9 @@
-Open Source
+This repository is for Comp 312 - Open Source Computing Corse
 
 
 Assignment 2
+
+Project Proposals
 
 Project 1: Glimpse
 
